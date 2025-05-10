@@ -1,0 +1,2 @@
+# UTEC_2025_IA_FUNDAMENTALS
+Algoritmos
